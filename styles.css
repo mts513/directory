@@ -27,7 +27,11 @@ h2 {
     font-size: 40px;
 }
 nav {
+    display: block;
     background-color: maroon;
-    padding: 14px 16px;
+    
+}
+nav a {
     color: white;
+    padding: 14px 16px;
 }

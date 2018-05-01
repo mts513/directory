@@ -1,8 +1,9 @@
 body {
     background-color: silver;
-    text-align: center;
+    
     list-style-position: inside;
 }
+
 header {
     background-color: maroon;
     color:white;
@@ -17,4 +18,16 @@ header {
 .home a:hover {
     background-color: silver;
     color: maroon;
+}
+h4 {
+    font-style: italic;
+}
+h2 {
+    font-style: bold;
+    font-size: 40px;
+}
+nav {
+    background-color: maroon;
+    padding: 14px 16px;
+    color: white;
 }

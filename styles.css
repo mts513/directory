@@ -3,13 +3,18 @@ body {
     text-align: center;
     list-style-position: inside;
 }
-h1 {
-
-}
 header {
     background-color: maroon;
     color:white;
     padding: 5%;
     font-size:40px; 
     text-align: center;
+}
+.home a {
+    color: white;
+}
+
+.home a:hover {
+    background-color: silver;
+    color: maroon;
 }

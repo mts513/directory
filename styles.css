@@ -14,15 +14,37 @@ header {
 header a {
     color: white;
     font-size: 30px;
+    position: sticky;
 }
 
 header a:hover {
     background-color: silver;
     color: maroon;
 }
+nav {
+    position: sticky;
+    top: 0;
+    background-color: maroon;
+    color:white;
+    text-align: center;
+
+}
+nav a {
+    background-color: maroon;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+nav a:hover {
+    background-color: silver;
+    color: maroon;
+}
 h4 {
     font-style: italic;
 }
+
+
+
 h2 {
     font-style: bold;
     font-size: 40px;
